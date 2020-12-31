@@ -30,6 +30,9 @@ namespace Tests
             txtPassword.SendKeys("password");
             IWebElement btnLogin = driver.FindElement(By.CssSelector(".btn.btn-default"));
             btnLogin.Click();
+            IWebElement lnkLogin1 = driver.FindElement(By.LinkText("Login"));
+            lnkLogin1.Click();
+
         }
     }
 }
