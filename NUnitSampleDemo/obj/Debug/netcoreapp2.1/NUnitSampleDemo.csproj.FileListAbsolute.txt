@@ -1,0 +1,15 @@
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\NUnitSampleDemo.deps.json
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\NUnitSampleDemo.runtimeconfig.json
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\NUnitSampleDemo.runtimeconfig.dev.json
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\NUnitSampleDemo.dll
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\obj\Debug\netcoreapp2.1\NUnitSampleDemo.csprojAssemblyReference.cache
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\obj\Debug\netcoreapp2.1\NUnitSampleDemo.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\obj\Debug\netcoreapp2.1\NUnitSampleDemo.AssemblyInfoInputs.cache
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\obj\Debug\netcoreapp2.1\NUnitSampleDemo.AssemblyInfo.cs
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\bin\Debug\netcoreapp2.1\NUnitSampleDemo.pdb
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\obj\Debug\netcoreapp2.1\NUnitSampleDemo.dll
+D:\Visual Studio\NUnitSampleDemo\NUnitSampleDemo\obj\Debug\netcoreapp2.1\NUnitSampleDemo.pdb
